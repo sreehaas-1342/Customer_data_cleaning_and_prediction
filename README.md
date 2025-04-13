@@ -25,5 +25,5 @@ This project predicts the purchase frequency of the user using he/she's age, spe
 ---
 
 
-[![Open In Colab]: 
+[![Open In Colab]: https://colab.research.google.com/drive/1aTmPrwWv35bexIjJ5H0pVnzcniXgzdyu?usp=sharing
 Made by Sreehaas

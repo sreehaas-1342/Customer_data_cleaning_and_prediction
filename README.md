@@ -76,5 +76,5 @@ Scikit-learn (ML model)
 
 
 
-[![Open In Colab]: https://colab.research.google.com/drive/1aTmPrwWv35bexIjJ5H0pVnzcniXgzdyu?usp=sharing
+[![Open In Colab]: [https://colab.research.google.com/drive/1aTmPrwWv35bexIjJ5H0pVnzcniXgzdyu?usp=sharing](https://github.com/sreehaas-1342/Customer_data_cleaning_and_prediction.git)
 Made by Sreehaas

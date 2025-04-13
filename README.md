@@ -7,7 +7,7 @@ This project predicts the purchase frequency of the user using he/she's age, spe
 - Output: `cleaned_customer_data.csv` (after cleaning)
 
 ## 📊 Visualizations
-- ![Income Distribution]
+- ![Income Distribution] ![image](https://github.com/user-attachments/assets/e191bc68-3054-4449-ae1d-df5209c2abd0)
 - ![Income vs Spending]
 
 ## 📒 Notebook
